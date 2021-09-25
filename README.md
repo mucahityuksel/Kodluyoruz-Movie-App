@@ -1,4 +1,4 @@
 ### Movie App Live
 #
 
-https://kodluyoruz-movie-app.netlify.app/
+https://mucahit-movie-app.netlify.app/
