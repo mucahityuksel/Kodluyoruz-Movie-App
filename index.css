@@ -1,4 +1,5 @@
-@media (min-width: 780px){
+/* for desktop*/
+@media (min-width: 1000px){
     .header-div{
         
         margin-left:40%;
@@ -17,9 +18,9 @@
 
     #ic-div{
         float:left;
-        width:85%;
-        height:750px;
-        margin-left:13%;
+        width:1000px;
+        height:890px;
+        margin-left:15%;
         margin-top:15px;
         text-align:center;
         
@@ -60,8 +61,8 @@
         border-top-right-radius: 9px;
     }
 }
-
-@media   (min-width: 300px) and (max-width: 460px){
+/* for tablet */
+@media   (min-width: 760px) and (max-width: 1024px){
     .header-div{
     
         margin-left:40%;
@@ -80,7 +81,7 @@
     
     #ic-div{
         float:left;
-        width:75%;
+        width:860px;
         height:750px;
         margin-left:15%;
         margin-top:15px;
@@ -122,8 +123,8 @@
     }
 
 }
-
-@media  (max-width: 300px){
+/* for mobile */
+@media  (min-width: 320px) and (max-width: 480px){
     .header-div{
     
         margin-left:40%;
@@ -142,7 +143,7 @@
     
     #ic-div{
         float:left;
-        width:75%;
+        width:380px;
         height:750px;
         margin-left:15%;
         margin-top:15px;
