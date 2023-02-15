@@ -1,4 +1,4 @@
-const url = "https://api.themoviedb.org/3/discover/movie?api_key=6f2e2de5db93d2cbd724275b24cf0b9d&sort_by=popularity.desc"
+const url = "https://api.themoviedb.org/3/discover/movie?api_key=<<api_key>>&sort_by=popularity.desc"
 
 
 //create input for serach
